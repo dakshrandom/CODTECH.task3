@@ -1,1 +1,2 @@
-# CODTECH.task3
+Name : Daksh Lodha
+DURATION:
